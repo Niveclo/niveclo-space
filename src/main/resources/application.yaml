@@ -1,0 +1,10 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://8.217.163.50:3306/niveclo_space?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password01: nlc9
